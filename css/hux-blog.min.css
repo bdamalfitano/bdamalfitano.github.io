@@ -129,3 +129,31 @@
 .experience-card ul {
   margin-top: 15px;
 }
+/* Skills Page Layout */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.skills-card {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.skills-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 35px rgba(0,0,0,0.12);
+}
+
+.skills-card h3 {
+  margin-top: 0;
+}
+
+.skills-card ul {
+  margin-top: 15px;
+}
