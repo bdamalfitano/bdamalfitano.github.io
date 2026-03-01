@@ -7,20 +7,6 @@ header-img: "img/city.jpg"
 
 <div class="experience-grid">
 
-  <!-- Huntington Beach Central Library -->
-  <div class="experience-card">
-    <h3>Huntington Beach Central Library</h3>
-    <h4>Remote Tutor / Educator</h4>
-    <p class="experience-location">Huntington Beach, CA</p>
-    <p class="experience-date">August 2020 – June 2022</p>
-
-    <ul>
-      <li>Taught introductory coding courses to students ages 10–16 through a partnership program with Huntington Beach High School.</li>
-      <li>Designed and developed curriculum for multiple 4-week courses.</li>
-      <li>Led virtual classrooms independently in a leadership role.</li>
-    </ul>
-  </div>
-
   <!-- Spencer's Gifts -->
   <div class="experience-card">
     <h3>Spencer's Gifts LLC</h3>
@@ -47,6 +33,20 @@ header-img: "img/city.jpg"
       <li>Processed truck deliveries and supported Buy Online Pickup In-Store (BOPIS).</li>
       <li>Promoted credit card and loyalty programs.</li>
       <li>Maintained store presentation according to planograms and visual guidelines.</li>
+    </ul>
+  </div>
+
+  <!-- Huntington Beach Central Library -->
+  <div class="experience-card">
+    <h3>Huntington Beach Central Library</h3>
+    <h4>Remote Tutor / Educator</h4>
+    <p class="experience-location">Huntington Beach, CA</p>
+    <p class="experience-date">August 2020 – June 2022</p>
+
+    <ul>
+      <li>Taught introductory coding courses to students ages 10–16 through a partnership program with Huntington Beach High School.</li>
+      <li>Designed and developed curriculum for multiple 4-week courses.</li>
+      <li>Led virtual classrooms independently in a leadership role.</li>
     </ul>
   </div>
 
