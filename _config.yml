@@ -51,16 +51,11 @@ ga_domain: bdamalfitano.github.io
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "Computer Science Student"
+sidebar-about-description: "Brandon Amalfitano - Computer Science Student"
 sidebar-avatar: https://github.com/bdamalfitano.png
 
 featured-tags: true
-featured-condition-size: 1
+featured-condition-size: 0
 
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-page-mathjax: false
-
-friends:
-  []
