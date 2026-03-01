@@ -2,7 +2,7 @@
 
 Hi, I’m Brandon Amalfitano. I am currently pursuing a Bachelor of Science in Computer Science at California State University, Long Beach, with a focus on Software Development and Software Engineering. 
 
-In addition to my technical coursework, I have dedicated significant time to studying communication — particularly interpersonal communication — which has helped me develop strong collaboration and teamwork skills.
+In addition to my technical coursework, I have dedicated significant time to studying communication, particularly interpersonal communication, which has helped me develop strong collaboration and teamwork skills.
 
 Outside of academics, I stay busy with several hobbies. Recently, I’ve become deeply interested in aquascaping and shrimp keeping. I maintain two aquarium tanks, both home to large shrimp colonies (along with a few fish)! 
 
