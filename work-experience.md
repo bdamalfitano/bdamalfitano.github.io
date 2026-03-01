@@ -17,7 +17,7 @@ header-img: "img/city.jpg"
     <ul>
       <li>Taught introductory coding courses to students ages 10–16 through a partnership program with Huntington Beach High School.</li>
       <li>Designed and developed curriculum for multiple 4-week courses.</li>
-      <li>Led virtual classrooms independently in a teacher/leadership role.</li>
+      <li>Led virtual classrooms independently in a leadership role.</li>
     </ul>
   </div>
 
@@ -50,16 +50,17 @@ header-img: "img/city.jpg"
     </ul>
   </div>
 
-  <!-- Placeholder Future Role -->
+  <!-- Huntington Beach High School -->
   <div class="experience-card">
-    <h3>Future Software Engineering Role</h3>
-    <h4>Coming Soon</h4>
-    <p class="experience-location">Open to Opportunities</p>
-    <p class="experience-date">—</p>
+    <h3>Huntington Beach High School</h3>
+    <h4>Farmhand and Laborer</h4>
+    <p class="experience-location">Huntington Beach, CA</p>
+    <p class="experience-date">January 2019 – June 2021</p>
 
     <ul>
-      <li>Actively seeking internship or junior software engineering opportunities.</li>
-      <li>Interested in backend, systems, or full-stack development roles.</li>
+      <li>Participated in the Farm-to-Fork program.</li>
+      <li>Planted, harvested, and sold produce from the garden to local stores.</li>
+      <li>Managed the garden during peak COVID-19 periods, both on and off school hours.</li>
     </ul>
   </div>
 
