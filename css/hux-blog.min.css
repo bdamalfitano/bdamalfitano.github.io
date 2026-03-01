@@ -29,3 +29,38 @@
   margin-top: 10px;
   font-weight: 600;
 }
+/* ===== Homepage Box Layout ===== */
+
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.home-box {
+  display: block;
+  background: #ffffff;
+  padding: 40px 30px;
+  border-radius: 14px;
+  text-decoration: none;
+  color: #404040;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  transition: all 0.25s ease;
+}
+
+.home-box:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+  color: #0085a1;
+}
+
+.home-box h2 {
+  margin-top: 0;
+}
+
+.home-box p {
+  margin-bottom: 0;
+  font-size: 15px;
+  color: #777;
+}
