@@ -1,7 +1,7 @@
 Hey, I am Brandon Amalfitano. I am currently enrolled at California State University Long Beach for a Bachelor of Science in Computer Science with
-a focus in Software Development and Software Engineering. 
+a focus in Software Development and Software Engineering. Along with my time studying technology, I have put a considerable amount of time taking and studying courses in communication, and specifically interpersonal communication.
 
-In the past, I have led the development of Serena's Autonomous Navigation (ROS2, C++) stack at [Coalescent Mobile Robotics](https://cm-robotics.com/), worked at [Hiventive](https://www.hiventive.com/en/) both as a Back-End Software Engineer (Go, PostgreSQL) and as a Embedded Software Engineer (C++, C).
+When I'm not busy with school work, I keep myself busy with a few of my hobbies. Lately, I've been really into setting up aquariums, specifically aquascaping and shrimp keeping. I have 2 tanks both filled with large colonies of shrimp (and a few fish). I have also dedicated a lot of time towards learning foreign languages, I'm fluent in Spanish and lately have been trying to learn Korean.
 
 I have also been part of the Real Time Systems research team at [LS2N](https://ls2n.fr) for AI Planning, in which I have developed [pymapf](https://github.com/APLA-Toolbox/pymapf) (Multi-Agents Pathfinding Toolbox) and [pyddl](https://github.com/APLA-Toolbox/pythonpddl) (PDDL Parser/Planner).
 
