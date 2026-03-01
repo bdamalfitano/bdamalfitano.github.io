@@ -20,7 +20,7 @@ tags:
 </div>
 
 ## Overview
-Not exactly one project, but I have a few diagrams I designed and some queries I wrote and the thought processes behind them to hopefully show my level of understanding
+While not a single standalone project, this section showcases database diagrams and SQL queries I designed to demonstrate my understanding of relational database architecture, data modeling, and query optimization.
 
 ## Technologies
 - SQL
@@ -28,47 +28,73 @@ Not exactly one project, but I have a few diagrams I designed and some queries I
 - MongoDB
 - UML Diagrams
 - Moon Modeler
-- ERD Model
+- Entity-Relationship Diagrams (ERD)
 
 ## Examples Included
-- Multi-table JOIN operations
-- Aggregate functions with GROUP BY
+- Multi-table `JOIN` operations
+- Aggregate functions with `GROUP BY`
 - Subqueries and nested queries
-- Data filtering and indexing
+- Data filtering and indexing strategies
+
+---
 
 ## UML Diagram
-The below diagram was a sample "Schema" object that I made before implementing in UML to show functions, relations, and features of the class:
+The diagram below represents a sample "Schema" object created during the initial design phase. The UML model was used to define class structure, relationships, and system behavior before transitioning into database-specific modeling.
+
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/umldiagram.jpg"
        alt="UML Diagram"
        style="max-width: 450px; width: 100%; height: auto;">
 </div>
 
-# ERD Diagram
-The next diagram was designed after the above UML was made. The purpose of the ERD was to show a move from a design view to more of a database design view. This diagram is more compatible with our software so this inbetween step is generally helpful.
+---
+
+## ERD Diagram
+The ERD was developed after the UML design to translate the system architecture into a database-oriented structure. This step shifts the focus from object design to relational modeling, including entities, attributes, primary keys, and foreign key relationships.
+
+This intermediate stage ensures compatibility with database implementation tools and reduces schema design errors.
+
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/entityrelationshipdiagram.png"
-       alt="ERD"
+       alt="ERD Diagram"
        style="max-width: 450px; width: 100%; height: auto;">
 </div>
 
-# Moon Modeler
-As mentioned above, the Moon Modeler software we use acted as a stage three in this "Schema" project. This step allows me to connect directly to the database and implement the features of the class. This graph and the two above all convey the same information but differ slightly based on the program. Much of the difficulty from this project came from navigating those small differences.
+---
+
+## Moon Modeler
+Moon Modeler was used as the final implementation stage of the schema design process. This tool connects directly to the database environment, allowing schema deployment and validation.
+
+Although the UML, ERD, and Moon Modeler diagrams represent the same underlying system, each tool presents the structure differently. A significant challenge in this project involved reconciling the subtle differences between modeling standards and ensuring consistency across all representations.
+
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/moonmodeler.png"
-       alt="moon modeler"
+       alt="Moon Modeler Diagram"
        style="max-width: 750px; width: 100%; height: auto;">
 </div>
 
-# SQL Queries
-The next two examples are showcases of some queries I designed for a mock order and delivery service. From a company's point of view, these queries would be important data they would want to collect such as the number of orders placed by specific customers, or total amount spent by city or by date.
+---
+
+## SQL Queries
+The final examples demonstrate SQL queries designed for a mock order and delivery system.
+
+From a business perspective, these queries extract meaningful insights such as:
+
+- Number of orders placed by specific customers
+- Total revenue grouped by city
+- Sales trends over time
+- Performance metrics by date or category
+
+These queries emphasize efficient data retrieval, aggregation logic, and practical business-oriented reporting.
+
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/SQL.png"
-       alt="SQL1"
+       alt="SQL Query Example 1"
        style="max-width: 700px; width: 100%; height: auto;">
 </div>
+
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/SQL2.png"
-       alt="SQL2"
+       alt="SQL Query Example 2"
        style="max-width: 700px; width: 100%; height: auto;">
 </div>

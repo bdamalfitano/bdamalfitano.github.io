@@ -8,9 +8,10 @@ tags:
   - Mix It Up
   - UI/UX Design
   - Live Data Integration
-  - Javascript
+  - JavaScript
   - Photoshop
 ---
+
 <div class="project-tags">
   <span>Twitch</span>
   <span>Livestream</span>
@@ -18,29 +19,36 @@ tags:
   <span>Mix It Up</span>
   <span>UI/UX Design</span>
   <span>Live Data Integration</span>
-  <span>Javascript</span>
+  <span>JavaScript</span>
   <span>Photoshop</span>
 </div>
 
 ## Overview
-Designed and implemented dynamic stream overlays for streaming platforms, Twitch in this case but useable anywhere, for better interaction with streamers and their chats. I used a program called Mix It Up to code the backend of the overlay to allow chatters to be able to interact with the stream directly.
+Designed and implemented dynamic stream overlays for streaming platforms (primarily Twitch, but adaptable to others) to improve interaction between streamers and their audiences. I used Mix It Up to implement the backend automation logic that allows chat participants to interact directly with on-screen elements in real time.
 
 ## Technologies
 - HTML
 - CSS
 - JavaScript
 - Mix It Up (Automation Software)
-- Life Chat Event Hooks
+- Live Chat Event Hooks
+- Photoshop
 
 ## Key Features
-- Responsive overlay components
-- Real-time updates
-- Custom animation effects
-- Chat affects on-screen elements
-All of these overlays were designed using Photoshop while all the interactive elements were coding using Mix It Up and integrated using Twitch.
+- Responsive overlay components  
+- Real-time updates  
+- Custom animation effects  
+- Chat-driven on-screen interactions  
+
+All overlays were visually designed in Photoshop, while interactive elements were implemented using Mix It Up and integrated with Twitch’s event system.
+
+---
 
 # Implementation
-The first two overlays were made to mimic popular social media platforms Twitter and Buzzfeed, the twist being that nearly all the text and images on screen are able to change through what the chatters do. On the Twitter one, when someone leaves a chat message their username, icon, and message will all appear on the screen as a fake Twitter comment. Platforms like Twitch allow frequent watchers to redeem rewards through a point system, and several of these point options would also affect on screen elements like the Twitter trending searches or the amount of "likes" the stream has.
+
+The first two overlays were designed to mimic popular social media platforms — Twitter and BuzzFeed — with the twist that nearly all on-screen text and images dynamically change based on viewer interaction.
+
+In the Twitter-themed overlay, when a viewer sends a chat message, their username, profile icon, and message appear on screen as a simulated Twitter comment. Twitch allows frequent viewers to redeem channel points, and several of these redemptions trigger changes to on-screen elements such as trending topics or the number of “likes” displayed during the stream.
 
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/overlaytwitter.png"
@@ -48,7 +56,7 @@ The first two overlays were made to mimic popular social media platforms Twitter
        style="max-width: 600px; width: 100%; height: auto;">
 </div>
 
-The second overlay, as I mentioned briefly, mimics Buzzfeed where the elements on the screen are made to look like you are reading an article on the website. Chatters are able to redeem their points to change the "trending" topics at the top of the screen or change the looping advertisements that appear above the streamers head. All of these elements come together to really give chatters the feel that they are watching something from the Buzzfeed website.
+The second overlay mimics the layout of BuzzFeed, where the stream presentation resembles an interactive online article. Viewers can redeem points to change the “trending” topics at the top of the screen or modify the rotating advertisements displayed above the streamer’s video feed. These interactive elements enhance immersion and create a more engaging viewing experience.
 
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/overlaybuzz.png"
@@ -56,7 +64,11 @@ The second overlay, as I mentioned briefly, mimics Buzzfeed where the elements o
        style="max-width: 600px; width: 100%; height: auto;">
 </div>
 
-The third and most recent overlay I designed was made to look similar to an old Windows 95 desktop and give viewers a nostalgic feel. Chat messages would come through as "Internet Mail" in a style that matches the original nearly identically. The streamer's reaction box, the gameplay live feed, and chatbox all have the appearance of computer tabs from that operating system. Users could spend points to make fake "pop-ups" show up from a random pool, and can change the appearance and text of icons on the desktop. Every tab featured on the screen acts and moves as if they we actually tabs on a desktop allowing the setup to move around and change the feel as frequently as wanted to give a new feel. Below is a picture of the overlay in use:
+The third and most recent overlay was designed to resemble a Windows 95 desktop, creating a nostalgic user experience. Chat messages appear as “Internet Mail” in a style closely matching the original operating system. The streamer’s camera feed, gameplay display, and chat box are styled as movable desktop windows.
+
+Viewers can redeem points to trigger randomized pop-up notifications and modify desktop icons dynamically. Each on-screen window behaves like a movable desktop tab, allowing the layout to be rearranged during the stream and creating a constantly evolving interface.
+
+Below is an image of the overlay in use:
 
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/overlaywindows.png"
