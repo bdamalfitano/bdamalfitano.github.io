@@ -1,22 +1,31 @@
-# About Me:
-Hey, I am Brandon Amalfitano. I am currently enrolled at California State University Long Beach for a Bachelor of Science in Computer Science with
-a focus in Software Development and Software Engineering. Along with my time studying technology, I have put a considerable amount of time taking and studying courses in communication, and specifically interpersonal communication.
+# About Me
 
-When I'm not busy with school work, I keep myself busy with a few of my hobbies. Lately, I've been really into setting up aquariums, specifically aquascaping and shrimp keeping. I have 2 tanks both filled with large colonies of shrimp (and a few fish). I have also dedicated a lot of time towards learning foreign languages, I'm fluent in Spanish and lately have been trying to learn Korean.
+Hi, I’m Brandon Amalfitano. I am currently pursuing a Bachelor of Science in Computer Science at California State University, Long Beach, with a focus on Software Development and Software Engineering. 
+
+In addition to my technical coursework, I have dedicated significant time to studying communication — particularly interpersonal communication — which has helped me develop strong collaboration and teamwork skills.
+
+Outside of academics, I stay busy with several hobbies. Recently, I’ve become deeply interested in aquascaping and shrimp keeping. I maintain two aquarium tanks, both home to large shrimp colonies (along with a few fish)! 
+
+I have also spent considerable time learning foreign languages. I am fluent in Spanish and am currently studying Korean.
+
+---
 
 # My Shrimp and Fish !!
+
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/shrimp.jpg"
-       alt="shrimp"
+       alt="Shrimp Tank 1"
        style="max-width: 450px; width: 100%; height: auto;">
 </div>
+
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/shrimp2.jpg"
-       alt="shrimp2"
+       alt="Shrimp Tank 2"
        style="max-width: 450px; width: 100%; height: auto;">
 </div>
+
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/gyro.jpg"
-       alt="gyro"
+       alt="Aquarium Setup"
        style="max-width: 450px; width: 100%; height: auto;">
 </div>
