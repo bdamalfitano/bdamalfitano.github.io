@@ -9,6 +9,14 @@ tags:
   - Media Streaming
   - VLC
 ---
+<div class="project-tags">
+  <span>Windows Scripting</span>
+  <span>PowerShell</span>
+  <span>rclone</span>
+  <span>Automation</span>
+  <span>Media Streaming</span>
+  <span>VLC</span>
+</div>
 
 ## Overview
 I purchased a 4 inch monitor secondhand to use as a little TV for my workspace, and I wanted to simulate the live TV experience using my favorite shows. The issue was I wanted to handpick the shows, shuffle it, all without having the files taking space on my PC. 
