@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Projects"
+permalink: /projects/
 header-img: "img/home-bg.jpg"
 ---
 
