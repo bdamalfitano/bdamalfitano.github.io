@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Database Project"
+header-img: "img/city2.jpg"
 tags:
   - SQL
   - Database Design

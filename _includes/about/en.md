@@ -1,3 +1,9 @@
+---
+layout: page
+title: "About"
+header-img: "img/city1.jpg"
+---
+
 # About Me
 
 Hi, I’m Brandon Amalfitano. I am currently pursuing a Bachelor of Science in Computer Science at California State University, Long Beach, with a focus on Software Development and Software Engineering. 

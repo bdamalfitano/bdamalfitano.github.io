@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mock Software Project"
+header-img: "img/city1.jpg"
 tags:
   - SQL
   - Database Design
