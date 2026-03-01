@@ -2,7 +2,7 @@
 layout: page
 title: "Projects"
 permalink: /projects/
-header-img: "img/home-bg.jpg"
+header-img: "img/city.jpg"
 ---
 
 <div class="project-grid">
