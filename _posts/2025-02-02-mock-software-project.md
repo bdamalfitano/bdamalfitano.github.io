@@ -78,8 +78,6 @@ An Excel spreadsheet was used to:
 
 ## Visuals
 
-Additional screenshots of the SELLBY project planning and workflow tools are shown below:
-
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/jira.png"
        alt="SELLBY User Stories Spreadsheet"
