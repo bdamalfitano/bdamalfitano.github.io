@@ -7,7 +7,7 @@ description: "Brandon Amalfitano | Portfolio, Projects, Experience"
 keyword: "Brandon Amalfitano, Portfolio, Software Engineering, Projects"
 
 url: "https://bdamalfitano.github.io"
-baseurl: "/github-portfolio"
+baseurl: ""   # IMPORTANT: must be empty for root repo
 
 future: true
 
