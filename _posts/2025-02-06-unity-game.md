@@ -1,6 +1,13 @@
 ---
 layout: page
 title: "Unity Game"
+tags:
+  - SQL
+  - Database Design
+  - ERD
+  - UML
+  - Data Modeling
+  - Query Optimization
 ---
 
 ## Overview

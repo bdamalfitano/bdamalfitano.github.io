@@ -1,6 +1,13 @@
 ---
 layout: page
 title: "Database Project"
+tags:
+  - SQL
+  - Database Design
+  - ERD
+  - UML
+  - Data Modeling
+  - Query Optimization
 ---
 
 ## Overview

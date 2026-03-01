@@ -67,3 +67,23 @@
   font-size: 15px;
   color: #777;
 }
+.project-tags {
+  margin: 20px 0 30px 0;
+}
+
+.project-tags span {
+  display: inline-block;
+  background: #f2f2f2;
+  padding: 6px 14px;
+  margin: 6px 8px 6px 0;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #555;
+  transition: 0.2s ease;
+}
+
+.project-tags span:hover {
+  background: #0085a1;
+  color: white;
+}

@@ -1,7 +1,23 @@
 ---
 layout: page
 title: "General SQL Queries"
+tags:
+  - SQL
+  - Database Design
+  - ERD
+  - UML
+  - Data Modeling
+  - Query Optimization
 ---
+
+<div class="project-tags">
+  <span>SQL</span>
+  <span>Database Design</span>
+  <span>ERD</span>
+  <span>UML</span>
+  <span>Data Modeling</span>
+  <span>Query Optimization</span>
+</div>
 
 ## Overview
 Not exactly one project, but I have a few diagrams I designed and some queries I wrote and the thought processes behind them to hopefully show my level of understanding
