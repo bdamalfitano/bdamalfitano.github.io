@@ -56,6 +56,3 @@ The next two examples are showcases of some queries I designed for a mock order 
        alt="SQL2"
        style="max-width: 700px; width: 100%; height: auto;">
 </div>
-
-## What I Learned
-Gained deeper insight into relational databases and efficient data querying.
