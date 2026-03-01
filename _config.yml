@@ -20,7 +20,7 @@ twitter_username:
 
 # Build settings
 highlighter: rouge
-permalink: pretty
+permalink: /:title/
 paginate: 10
 exclude:
   [

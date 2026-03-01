@@ -1,43 +1,28 @@
 ---
 layout: page
-description: "Home Page"
+title: "Brandon Amalfitano"
+description: "Software Engineer | Portfolio"
+header-img: "img/home-bg.jpg"
 ---
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-        <div class="post-content-preview">
-            {% if post.lang == 'en' %}
-                {{ post.content | strip_html | truncate:300 }}
-            {% else %}
-                {{ post.content | strip_html | truncate:200 }}
-            {% endif %}
-        </div>
-    </a>
-</div>
-<hr>
-{% endfor %}
+<div class="home-sections">
 
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Sections</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Sections &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+  <div class="home-card">
+    <h2>Projects</h2>
+    <p>Selected software and technical projects I've built.</p>
+    <a href="{{ site.baseurl }}/projects/">View →</a>
+  </div>
+
+  <div class="home-card">
+    <h2>Work Experience</h2>
+    <p>Professional and technical experience.</p>
+    <a href="{{ site.baseurl }}/work-experience/">View →</a>
+  </div>
+
+  <div class="home-card">
+    <h2>Skills</h2>
+    <p>Languages, tools, and technologies I use.</p>
+    <a href="{{ site.baseurl }}/skills/">View →</a>
+  </div>
+
+</div>
