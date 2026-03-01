@@ -9,6 +9,7 @@ tags:
   - UI/UX Design
   - Live Data Integration
   - Javascript
+  - Photoshop
 ---
 <div class="project-tags">
   <span>Twitch</span>
@@ -18,6 +19,7 @@ tags:
   <span>UI/UX Design</span>
   <span>Live Data Integration</span>
   <span>Javascript</span>
+  <span>Photoshop</span>
 </div>
 
 ## Overview
@@ -35,6 +37,7 @@ Designed and implemented dynamic stream overlays for streaming platforms, Twitch
 - Real-time updates
 - Custom animation effects
 - Chat affects on-screen elements
+All of these overlays were designed using Photoshop while all the interactive elements were coding using Mix It Up and integrated using Twitch.
 
 # Implementation
 The first two overlays were made to mimic popular social media platforms Twitter and Buzzfeed, the twist being that nearly all the text and images on screen are able to change through what the chatters do. On the Twitter one, when someone leaves a chat message their username, icon, and message will all appear on the screen as a fake Twitter comment. Platforms like Twitch allow frequent watchers to redeem rewards through a point system, and several of these point options would also affect on screen elements like the Twitter trending searches or the amount of "likes" the stream has.
