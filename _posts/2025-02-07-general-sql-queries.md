@@ -4,7 +4,7 @@ title: "General SQL Queries"
 ---
 
 ## Overview
-Not exactly one project, but I have a few queries I wrote and the thought processes behind them to hopefully show my level of understanding
+Not exactly one project, but I have a few diagrams I designed and some queries I wrote and the thought processes behind them to hopefully show my level of understanding
 
 ## Technologies
 - SQL
