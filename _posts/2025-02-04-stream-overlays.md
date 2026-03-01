@@ -46,7 +46,7 @@ All overlays were visually designed in Photoshop, while interactive elements wer
 
 # Implementation
 
-The first two overlays were designed to mimic popular social media platforms — Twitter and BuzzFeed — with the twist that nearly all on-screen text and images dynamically change based on viewer interaction.
+The first two overlays were designed to mimic popular social media platforms, Twitter and BuzzFeed, with the twist that nearly all on-screen text and images dynamically change based on viewer interaction.
 
 In the Twitter-themed overlay, when a viewer sends a chat message, their username, profile icon, and message appear on screen as a simulated Twitter comment. Twitch allows frequent viewers to redeem channel points, and several of these redemptions trigger changes to on-screen elements such as trending topics or the number of “likes” displayed during the stream.
 
