@@ -41,7 +41,7 @@ As mentioned above, the Moon Modeler software we use acted as a stage three in t
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/moonmodeler.png"
        alt="moon modeler"
-       style="max-width: 450px; width: 100%; height: auto;">
+       style="max-width: 550px; width: 100%; height: auto;">
 </div>
 
 # SQL Queries
