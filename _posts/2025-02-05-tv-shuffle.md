@@ -2,26 +2,44 @@
 layout: page
 title: "TV Shuffle"
 tags:
-  - SQL
-  - Database Design
-  - ERD
-  - UML
-  - Data Modeling
-  - Query Optimization
+  - Windows Scripting
+  - PowerShell
+  - rclone
+  - Automation
+  - Media Streaming
+  - VLC
 ---
 
 ## Overview
-Created a randomized content shuffling tool to simulate live TV-style content playback.
+I purchased a 4 inch monitor secondhand to use as a little TV for my workspace, and I wanted to simulate the live TV experience using my favorite shows. The issue was I wanted to handpick the shows, shuffle it, all without having the files taking space on my PC. 
 
 ## Technologies
-- JavaScript
-- APIs
-- Randomization Algorithms
+- Windows Batch Scripting
+- PowerShell
+- VLC Media Player
+- rclone (Cloud Storage Integration)
+- HTTP Streaming
+- VFS Caching
+
+## How It Works
+
+1. A PowerShell script generates a new randomized `.m3u` playlist on each launch.
+2. VLC is launched in fullscreen with randomization and looping enabled.
+3. An rclone HTTP server is started in the background to stream media files from remote storage.
+4. VFS caching is enabled to optimize playback performance.
+
+All background processes are launched hidden, creating a seamless user experience. All video files are grabbed remotely through multiple Google Drive and Mega files remotely through rclone and outputed to VLC.
 
 ## Key Features
-- Content randomizer
-- Playlist generation logic
-- Lightweight UI
+- Dynamic playlist generation
+- Full automation (single-click execution)
+- Background process management
+- Remote media streaming
+- Clean user-facing experience
 
-## What I Learned
-Improved my knowledge of algorithmic randomness and state management.
+# The Final Result:
+<div style="text-align:center; margin:40px 0;">
+  <img src="{{ site.baseurl }}/assets/images/projects/tvshuffle.jpg"
+       alt="TV"
+       style="max-width: 700px; width: 100%; height: auto;">
+</div>

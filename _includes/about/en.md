@@ -1,3 +1,4 @@
+# About Me:
 Hey, I am Brandon Amalfitano. I am currently enrolled at California State University Long Beach for a Bachelor of Science in Computer Science with
 a focus in Software Development and Software Engineering. Along with my time studying technology, I have put a considerable amount of time taking and studying courses in communication, and specifically interpersonal communication.
 
