@@ -1,9 +1,3 @@
----
-layout: page
-title: "About"
-permalink: /about/
-header-img: "img/city1.jpg"
----
 
 # About Me
 
