@@ -34,7 +34,7 @@ The project followed structured development practices, including requirement gat
 
 ## Development Workflow
 
-The team operated within an Agile-style workflow using industry-standard tools:
+I simulated a team operation within an Agile-style workflow using industry-standard tools:
 
 - Managed sprint backlogs and task assignments using **Jira**.
 - Broke down project requirements into structured user stories.
@@ -47,7 +47,7 @@ This provided hands-on experience with real-world software development collabora
 
 ## User Stories & Requirements Planning
 
-Before development began, we created a detailed requirements document outlining user stories and use cases for SELLBY.
+Before development began, I created a detailed requirements document outlining user stories and use cases for SELLBY.
 
 An Excel spreadsheet was used to:
 
