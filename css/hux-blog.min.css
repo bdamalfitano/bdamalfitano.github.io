@@ -87,3 +87,45 @@
   background: #0085a1;
   color: white;
 }
+
+/* Work Experience Cards */
+.experience-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.experience-card {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.experience-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 35px rgba(0,0,0,0.12);
+}
+
+.experience-card h3 {
+  margin-top: 0;
+}
+
+.experience-card h4 {
+  margin-top: 5px;
+  font-weight: 500;
+  color: #555;
+}
+
+.experience-location,
+.experience-date {
+  font-size: 14px;
+  color: #888;
+  margin: 5px 0;
+}
+
+.experience-card ul {
+  margin-top: 15px;
+}
