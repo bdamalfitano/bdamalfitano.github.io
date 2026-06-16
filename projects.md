@@ -66,7 +66,7 @@ header-img: "img/city9.jpg"
   <div class="project-card">
     <h3>Mobile Applications</h3>
     <p>Collection of mobile applications I've developed.</p>
-    <a href="{{ site.baseurl }}/mobile-apps/">View →</a>
+    <a href="{{ site.baseurl }}/mobile-app-final/">View →</a>
   </div>
 
 
