@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Othello Game"
-permalink: /database-project/
+permalink: /othello-game/
 header-img: "img/city5.jpg"
 tags:
   - Python
