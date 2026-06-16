@@ -79,3 +79,14 @@ The game was made fully configurable through a command-line interface (CLI):
 - Modular agent system for easy swapping and testing  
 - Multi-game batch runner with result summaries
 
+<div style="text-align:center; margin:40px 0;">
+  <img src="{{ site.baseurl }}/assets/images/projects/othellobot.png"
+       alt="TV Shuffle Setup"
+       style="max-width: 500px; width: 100%; height: auto;">
+</div>
+
+<div style="text-align:center; margin:40px 0;">
+  <img src="{{ site.baseurl }}/assets/images/projects/othellogame.png"
+       alt="TV Shuffle Setup"
+       style="max-width: 500px; width: 100%; height: auto;">
+</div>
