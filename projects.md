@@ -34,6 +34,12 @@ header-img: "img/city9.jpg"
   </div>
 
   <div class="project-card">
+    <h3>Othello Game</h3>
+    <p>Othello Game player with human and AI modes.</p>
+    <a href="{{ site.baseurl }}/othello-game/">View →</a>
+  </div>
+
+  <div class="project-card">
     <h3>Stream Overlays</h3>
     <p>Custom stream overlay system for live content creators.</p>
     <a href="{{ site.baseurl }}/stream-overlays/">View →</a>
