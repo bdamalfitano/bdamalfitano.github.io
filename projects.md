@@ -9,9 +9,6 @@ header-img: "img/city.jpg"
   header.intro-header {
     background-position: center 50%;
   }
-  header.intro-header .site-heading h1 {
-    color: #A10820;
-  }
 </style>
 
 
