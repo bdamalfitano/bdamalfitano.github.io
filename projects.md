@@ -16,15 +16,15 @@ header-img: "img/city9.jpg"
 <div class="project-grid">
 
   <div class="project-card">
-    <h3>Database Project</h3>
-    <p>Mock system designed as a final for my database class.</p>
-    <a href="{{ site.baseurl }}/database-project/">View →</a>
+    <h3>Unity Game</h3>
+    <p>Unity Roguelike I designed with my team.</p>
+    <a href="{{ site.baseurl }}/unity-game/">View →</a>
   </div>
 
   <div class="project-card">
-    <h3>Mock Software Project</h3>
-    <p>Full mock software system demonstrating software team progression.</p>
-    <a href="{{ site.baseurl }}/mock-software-project/">View →</a>
+    <h3>Mobile Application Final Project</h3>
+    <p>Final Project developed for my mobile application class.</p>
+    <a href="{{ site.baseurl }}/mobile-app-final/">View →</a>
   </div>
 
   <div class="project-card">
@@ -52,22 +52,21 @@ header-img: "img/city9.jpg"
   </div>
 
   <div class="project-card">
-    <h3>Unity Game</h3>
-    <p>Unity Roguelike I designed with my team.</p>
-    <a href="{{ site.baseurl }}/unity-game/">View →</a>
-  </div>
-
-  <div class="project-card">
     <h3>General SQL Queries</h3>
     <p>Collection of complex SQL queries and database diagram exercises.</p>
     <a href="{{ site.baseurl }}/general-sql-queries/">View →</a>
   </div>
 
   <div class="project-card">
-    <h3>Mobile Application Final Project</h3>
-    <p>Final Project developed for my mobile application class.</p>
-    <a href="{{ site.baseurl }}/mobile-app-final/">View →</a>
+    <h3>Mock Software Project</h3>
+    <p>Full mock software system demonstrating software team progression.</p>
+    <a href="{{ site.baseurl }}/mock-software-project/">View →</a>
   </div>
 
+  <div class="project-card">
+    <h3>Database Project</h3>
+    <p>Mock system designed as a final for my database class.</p>
+    <a href="{{ site.baseurl }}/database-project/">View →</a>
+  </div>
 
 </div>
