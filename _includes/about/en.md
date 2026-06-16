@@ -1,3 +1,8 @@
+<style>
+  header.intro-header {
+    height: 470px;
+  }
+</style>
 
 # About Me
 
