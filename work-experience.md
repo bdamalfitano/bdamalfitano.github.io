@@ -2,8 +2,16 @@
 layout: page
 title: "Work Experience"
 permalink: /work-experience/
-header-img: "img/city.jpg"
+header-img: "img/city8.jpg"
 ---
+
+<style>
+  header.intro-header {
+    background-position: center 60%;
+    height: 470px;
+  }
+</style>
+
 
 <div class="experience-grid">
 
