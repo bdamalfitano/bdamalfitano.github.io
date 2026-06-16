@@ -17,7 +17,7 @@ header-img: "img/city9.jpg"
 
   <div class="project-card">
     <h3>Unity Game</h3>
-    <p>Unity Roguelike I designed with my team.</p>
+    <p>Unity Roguelike I designed with my team over a full semester.</p>
     <a href="{{ site.baseurl }}/unity-game/">View →</a>
   </div>
 
