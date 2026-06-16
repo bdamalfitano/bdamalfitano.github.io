@@ -10,6 +10,13 @@ header-img: "img/city9.jpg"
     background-position: center 60%;
     height: 470px;
   }
+  .project-card {
+    display: flex;
+    flex-direction: column;
+  }
+  .project-card a {
+    margin-top: auto;
+  }
 </style>
 
 
