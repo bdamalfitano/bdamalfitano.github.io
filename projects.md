@@ -7,7 +7,7 @@ header-img: "img/city9.jpg"
 
 <style>
   header.intro-header {
-    background-position: center 50%;
+    background-position: center 60%;
     height: 470px;
   }
 </style>
