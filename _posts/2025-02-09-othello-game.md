@@ -49,7 +49,7 @@ The project began with implementing the core Othello rules:
 <div style="text-align:center; margin:40px 0;">
   <img src="{{ site.baseurl }}/assets/images/projects/othelloboard.png"
        alt="TV Shuffle Setup"
-       style="max-width: 700px; width: 100%; height: auto;">
+       style="max-width: 500px; width: 100%; height: auto;">
 </div>
 
 ### Step 2 AI Agent Architecture
@@ -63,7 +63,7 @@ The AI was built around a modular agent system:
 
 ### Step 3 Game Modes and CLI
 
-The game was made fully configurable through a command-line interface:
+The game was made fully configurable through a command-line interface (CLI):
 
 - Human vs AI mode with move input via board coordinates (e.g. d3, f5)  
 - AI vs AI mode for automated self-play and performance testing  
