@@ -2,7 +2,7 @@
 layout: page
 title: "Hospital Scheduling Database System"
 permalink: /database-project/
-header-img: "img/city2.jpg"
+header-img: "img/city5.jpg"
 tags:
   - SQL
   - PostgreSQL
@@ -13,6 +13,13 @@ tags:
   - System Architecture
   - Backend Development
 ---
+
+<style>
+  header.intro-header {
+    background-position: center 40%;
+    height: 470px;
+  }
+</style>
 
 <div class="project-tags">
   <span>SQL</span>
