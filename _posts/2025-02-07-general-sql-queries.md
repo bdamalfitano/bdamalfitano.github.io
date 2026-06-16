@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "General SQL Queries"
-header-img: "img/city2.jpg"
+header-img: "img/city1.jpg"
 tags:
   - SQL
   - Database Design

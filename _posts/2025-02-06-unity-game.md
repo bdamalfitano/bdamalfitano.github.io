@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Unity Game"
-header-img: "img/city1.jpg"
+header-img: "img/city5.jpg"
 tags:
   - Unity
   - Game Physics
@@ -9,6 +9,14 @@ tags:
   - Teamwork
   - Game Design
 ---
+
+<style>
+  header.intro-header {
+    background-position: center 40%;
+    height: 520px;
+  }
+</style>
+
 <div class="project-tags">
   <span>Unity</span>
   <span>Game Physics</span>

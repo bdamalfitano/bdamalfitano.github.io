@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TV Shuffle"
-header-img: "img/city2.jpg"
+header-img: "img/city3.jpg"
 tags:
   - Windows Scripting
   - PowerShell
@@ -10,6 +10,13 @@ tags:
   - Media Streaming
   - VLC
 ---
+
+<style>
+  header.intro-header {
+    background-position: center 50%;
+    height: 470px;
+  }
+</style>
 
 <div class="project-tags">
   <span>Windows Scripting</span>

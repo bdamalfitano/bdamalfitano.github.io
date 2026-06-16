@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Mobile Apps"
-header-img: "img/city1.jpg"
+title: "Mobile App Final Project"
+header-img: "img/city3.jpg"
 tags:
   - Flutter
   - Dart
@@ -9,6 +9,15 @@ tags:
   - Android Studio
   - Mobile Apps
 ---
+
+<style>
+  header.intro-header {
+    background-position: center 40%;
+    height: 520px;
+  }
+</style>
+
+
 <div class="project-tags">
   <span>Flutter</span>
   <span>Dart</span>
