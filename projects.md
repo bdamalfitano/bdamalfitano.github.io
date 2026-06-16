@@ -5,6 +5,13 @@ permalink: /projects/
 header-img: "img/city.jpg"
 ---
 
+<style>
+  header.intro-header {
+    background-position: center 30%;
+  }
+</style>
+
+
 <div class="project-grid">
 
   <div class="project-card">
