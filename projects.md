@@ -7,10 +7,10 @@ header-img: "img/city.jpg"
 
 <style>
   header.intro-header {
-    background-position: center 43%;
+    background-position: center 41%;
   }
   header.intro-header .site-heading h1 {
-    color: red;
+    color: #A10820;
   }
 </style>
 
