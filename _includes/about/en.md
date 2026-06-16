@@ -9,6 +9,8 @@ Outside of academics, I stay busy with several hobbies. Recently, I’ve become 
 
 I have also spent considerable time learning foreign languages. I am fluent in Spanish and am currently studying Korean.
 
+All of the photos featured on this website were taking by me as well (mostly in Japan!).
+
 ---
 
 # My Shrimp and Fish !!
