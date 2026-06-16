@@ -17,7 +17,7 @@ tags:
 <style>
   header.intro-header {
     background-position: center 40%;
-    height: 470px;
+    height: 520px;
   }
 </style>
 
