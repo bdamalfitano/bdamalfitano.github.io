@@ -2,12 +2,12 @@
 layout: page
 title: "Projects"
 permalink: /projects/
-header-img: "img/city.jpg"
+header-img: "img/city3.jpg"
 ---
 
 <style>
   header.intro-header {
-    background-position: center 58%;
+    background-position: center 50%;
     height: 470px;
   }
 </style>
